@@ -198,7 +198,7 @@
 				TargetAttributes = {
 					AFCBBC4F2052848600C37AAC = {
 						CreatedOnToolsVersion = 9.1;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -433,13 +433,15 @@
 			baseConfigurationReference = 4F32F86F277B1D47AFBA5A89 /* Pods-mrYu.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = PN8J43LU7V;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = FJL92GCC4N;
 				GCC_PREFIX_HEADER = "/Users/liusilin/Desktop/于东升app/MRYu/mrYu/mrYu/Macro/PrefixHeader.pch";
 				INFOPLIST_FILE = mrYu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.silin.mrYu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "bedc2a29-246c-4589-a4a2-17b1e684bb36";
+				PROVISIONING_PROFILE_SPECIFIER = mrYu.Profile;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -449,13 +451,15 @@
 			baseConfigurationReference = EE52F9672BA4C148DAA8D2E3 /* Pods-mrYu.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = PN8J43LU7V;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = FJL92GCC4N;
 				GCC_PREFIX_HEADER = "/Users/liusilin/Desktop/于东升app/MRYu/mrYu/mrYu/Macro/PrefixHeader.pch";
 				INFOPLIST_FILE = mrYu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.silin.mrYu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "bedc2a29-246c-4589-a4a2-17b1e684bb36";
+				PROVISIONING_PROFILE_SPECIFIER = mrYu.Profile;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
