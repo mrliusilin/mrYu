@@ -437,6 +437,7 @@
 				DEVELOPMENT_TEAM = FJL92GCC4N;
 				GCC_PREFIX_HEADER = "/Users/liusilin/Desktop/于东升app/MRYu/mrYu/mrYu/Macro/PrefixHeader.pch";
 				INFOPLIST_FILE = mrYu/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.silin.mrYu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -455,6 +456,7 @@
 				DEVELOPMENT_TEAM = FJL92GCC4N;
 				GCC_PREFIX_HEADER = "/Users/liusilin/Desktop/于东升app/MRYu/mrYu/mrYu/Macro/PrefixHeader.pch";
 				INFOPLIST_FILE = mrYu/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.silin.mrYu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
