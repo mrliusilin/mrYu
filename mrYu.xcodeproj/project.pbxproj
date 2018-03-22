@@ -438,7 +438,7 @@
 				GCC_PREFIX_HEADER = "/Users/liusilin/Desktop/于东升app/MRYu/mrYu/mrYu/Macro/PrefixHeader.pch";
 				INFOPLIST_FILE = mrYu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.silin.hhha;
+				PRODUCT_BUNDLE_IDENTIFIER = com.silin.yu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -454,7 +454,7 @@
 				GCC_PREFIX_HEADER = "/Users/liusilin/Desktop/于东升app/MRYu/mrYu/mrYu/Macro/PrefixHeader.pch";
 				INFOPLIST_FILE = mrYu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.silin.hhha;
+				PRODUCT_BUNDLE_IDENTIFIER = com.silin.yu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
