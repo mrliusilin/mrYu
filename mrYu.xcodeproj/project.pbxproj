@@ -440,8 +440,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.silin.mrYu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "bedc2a29-246c-4589-a4a2-17b1e684bb36";
-				PROVISIONING_PROFILE_SPECIFIER = mrYu.Profile;
+				PROVISIONING_PROFILE = "4941e3d6-d571-48c5-bc14-87630b3ad4ce";
+				PROVISIONING_PROFILE_SPECIFIER = mrYuProfile;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -458,8 +458,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.silin.mrYu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "bedc2a29-246c-4589-a4a2-17b1e684bb36";
-				PROVISIONING_PROFILE_SPECIFIER = mrYu.Profile;
+				PROVISIONING_PROFILE = "4941e3d6-d571-48c5-bc14-87630b3ad4ce";
+				PROVISIONING_PROFILE_SPECIFIER = mrYuProfile;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
