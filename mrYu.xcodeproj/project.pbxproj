@@ -437,7 +437,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 25HZY22LV7;
-				GCC_PREFIX_HEADER = "/Users/liusilin/Desktop/于东升app/MRYu/mrYu/mrYu/Macro/PrefixHeader.pch";
+				GCC_PREFIX_HEADER = "$(SRCROOT)/mrYu/Macro/PrefixHeader.pch";
 				INFOPLIST_FILE = mrYu/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -458,7 +458,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 25HZY22LV7;
-				GCC_PREFIX_HEADER = "/Users/liusilin/Desktop/于东升app/MRYu/mrYu/mrYu/Macro/PrefixHeader.pch";
+				GCC_PREFIX_HEADER = "$(SRCROOT)/mrYu/Macro/PrefixHeader.pch";
 				INFOPLIST_FILE = mrYu/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
