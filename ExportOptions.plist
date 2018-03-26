@@ -6,15 +6,20 @@
 	<false/>
 	<key>method</key>
 	<string>development</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.drs.mrYu</key>
+		<string>mrYu</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>iPhone Developer</string>
 	<key>signingStyle</key>
-	<string>automatic</string>
+	<string>manual</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
 	<string>25HZY22LV7</string>
-	<key>uploadSymbols</key>
-	<true/>
-	<key>uploadBitcode</key>
-	<true/>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
 </dict>
 </plist>
