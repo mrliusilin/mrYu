@@ -433,7 +433,7 @@
 			baseConfigurationReference = 4F32F86F277B1D47AFBA5A89 /* Pods-mrYu.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: 415324672@qq.com (4396HUZ3LJ)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Peng Guo (VZ55SX5YUU)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 25HZY22LV7;
@@ -454,7 +454,7 @@
 			baseConfigurationReference = EE52F9672BA4C148DAA8D2E3 /* Pods-mrYu.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: 415324672@qq.com (4396HUZ3LJ)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Peng Guo (VZ55SX5YUU)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 25HZY22LV7;
